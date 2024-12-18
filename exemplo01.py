@@ -1,5 +1,7 @@
 import requests
 
-url = 'https://www.google.com'
+url = 'https://jsonplaceholder.typicode.com/posts/1'
+
 response = requests.get(url)
-print(response)
+data = response.json()
+print(data)
