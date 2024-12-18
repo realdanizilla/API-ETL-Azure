@@ -1,1 +1,123 @@
-{"_default": {"1": {"valor": "105961.205", "criptomoeda": "BTC", "moeda": "USD"}, "2": {"valor": "105782.93", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482252.916231}, "3": {"valor": "105686.465", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482276.152663}, "4": {"valor": "105799.81", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482587.496687}, "5": {"valor": "105762.315", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482602.738889}, "6": {"valor": "105777.15", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482617.961845}, "7": {"valor": "105830.395", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482633.188891}, "8": {"valor": "105844.985", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482648.421237}, "9": {"valor": "105888.445", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482663.669154}, "10": {"valor": "105996.73", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482678.932328}, "11": {"valor": "105991.31", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482694.181275}, "12": {"valor": "106000.725", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482709.426557}, "13": {"valor": "105975.22", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482724.648651}, "14": {"valor": "105998.54", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482739.880171}, "15": {"valor": "105960.005", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482755.115912}, "16": {"valor": "105908.195", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482770.5839}, "17": {"valor": "105908.635", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482785.820758}, "18": {"valor": "105897.585", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482801.059522}, "19": {"valor": "105890.695", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482816.287153}, "20": {"valor": "105915.065", "criptomoeda": "BTC", "moeda": "USD", "timestamp": 1734482831.520307}}}
+{
+    "_default": {
+        "1": {
+            "valor": "105961.205",
+            "criptomoeda": "BTC",
+            "moeda": "USD"
+        },
+        "2": {
+            "valor": "105782.93",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482252.916231
+        },
+        "3": {
+            "valor": "105686.465",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482276.152663
+        },
+        "4": {
+            "valor": "105799.81",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482587.496687
+        },
+        "5": {
+            "valor": "105762.315",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482602.738889
+        },
+        "6": {
+            "valor": "105777.15",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482617.961845
+        },
+        "7": {
+            "valor": "105830.395",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482633.188891
+        },
+        "8": {
+            "valor": "105844.985",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482648.421237
+        },
+        "9": {
+            "valor": "105888.445",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482663.669154
+        },
+        "10": {
+            "valor": "105996.73",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482678.932328
+        },
+        "11": {
+            "valor": "105991.31",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482694.181275
+        },
+        "12": {
+            "valor": "106000.725",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482709.426557
+        },
+        "13": {
+            "valor": "105975.22",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482724.648651
+        },
+        "14": {
+            "valor": "105998.54",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482739.880171
+        },
+        "15": {
+            "valor": "105960.005",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482755.115912
+        },
+        "16": {
+            "valor": "105908.195",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482770.5839
+        },
+        "17": {
+            "valor": "105908.635",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482785.820758
+        },
+        "18": {
+            "valor": "105897.585",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482801.059522
+        },
+        "19": {
+            "valor": "105890.695",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482816.287153
+        },
+        "20": {
+            "valor": "105915.065",
+            "criptomoeda": "BTC",
+            "moeda": "USD",
+            "timestamp": 1734482831.520307
+        }
+    }
+}

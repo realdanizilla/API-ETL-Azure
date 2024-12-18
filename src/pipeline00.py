@@ -6,7 +6,6 @@ from datetime import datetime
 
 def extract_data_btc():
     url = 'https://api.coinbase.com/v2/prices/spot' # url identifica o endpoint
-
     response = requests.get(url)
     dados = response.json()
     return dados
@@ -28,7 +27,7 @@ def transform_data_btc(dados):
 def save_data_btc_tinydb(dados, db_name="bitcoin.json"):
     db = TinyDB(db_name)
     db.insert(dados)
-    print("dados salvo com sucesso")
+    print("dados salvos com sucesso")
 
 
 if __name__ == "__main__":
@@ -36,4 +35,3 @@ if __name__ == "__main__":
     dados_json = extract_data_btc()
     dados_tratados = transform_data_btc(dados_json)
     save_data_btc_tinydb(dados_tratados)
-    print(dados_tratados)
